@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+.e_divs {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid gray;
+    margin: .5px;
+    cursor: pointer;
+}
+
+.e_divs:hover {
+    background-color: #C0C0C0;
+}
